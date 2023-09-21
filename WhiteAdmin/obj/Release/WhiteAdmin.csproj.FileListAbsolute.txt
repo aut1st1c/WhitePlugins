@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteAdmin.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteAdmin.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteAdmin\obj\Release\WhiteAdmin.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteAdmin\obj\Release\WhiteAdmin.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteAdmin\obj\Release\WhiteAdmin.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteAdmin\obj\Release\WhiteAdmin.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteAdmin\obj\Release\WhiteAdmin.pdb

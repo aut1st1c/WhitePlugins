@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteTax.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteTax.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteNalogi\obj\Release\WhiteTax.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteNalogi\obj\Release\WhiteTax.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteNalogi\obj\Release\WhiteTax.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteNalogi\obj\Release\WhiteTax.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteNalogi\obj\Release\WhiteTax.pdb

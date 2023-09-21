@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteCrimes.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteCrimes.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteCrimes\obj\Release\WhiteCrimes.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteCrimes\obj\Release\WhiteCrimes.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteCrimes\obj\Release\WhiteCrimes.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteCrimes\obj\Release\WhiteCrimes.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteCrimes\obj\Release\WhiteCrimes.pdb

@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteBankSystem\obj\Release\WhiteBankSystem.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteBankSystem\obj\Release\WhiteBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteBankSystem.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteBankSystem.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteBankSystem\obj\Release\WhiteBankSystem.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteBankSystem\obj\Release\WhiteBankSystem.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteBankSystem\obj\Release\WhiteBankSystem.pdb

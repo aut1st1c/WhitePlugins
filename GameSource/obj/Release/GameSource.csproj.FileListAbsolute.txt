@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\!GameSource.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\!GameSource.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\GameSource\obj\Release\GameSource.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\GameSource\obj\Release\GameSource.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\GameSource\obj\Release\GameSource.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\GameSource\obj\Release\!GameSource.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\GameSource\obj\Release\!GameSource.pdb

@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\!LifeSource.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\!LifeSource.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\LifeSource\obj\Release\LifeSource.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\LifeSource\obj\Release\LifeSource.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\LifeSource\obj\Release\LifeSource.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\LifeSource\obj\Release\!LifeSource.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\LifeSource\obj\Release\!LifeSource.pdb

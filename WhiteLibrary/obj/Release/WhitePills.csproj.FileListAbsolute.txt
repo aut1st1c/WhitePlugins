@@ -1,0 +1,7 @@
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteLibrary.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\Release\WhiteLibrary.pdb
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteLibrary\obj\Release\WhitePills.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteLibrary\obj\Release\WhitePills.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteLibrary\obj\Release\WhitePills.csproj.CopyComplete
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteLibrary\obj\Release\WhiteLibrary.dll
+C:\Users\0\Desktop\WhiteProject\Broke Protocol\Visual Studio\WhiteLibrary\obj\Release\WhiteLibrary.pdb
